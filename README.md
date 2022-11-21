@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/linux-blue) 
 ![](https://img.shields.io/badge/docker-informational)
 ### 个人学习项目：
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anofinda&repo=Vanilla-JavaScript-Web-Projects)](https://github.com/anofinda/Vanilla-JavaScript-Web-Projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anofinda&repo=Vanilla-JavaScript-Web-Projects)](https://github.com/anofinda/AnoBlog)
 ### 统计：
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anofinda&layout=compact)](https://github.com/anofinda)
 
