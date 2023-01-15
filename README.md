@@ -7,12 +7,13 @@
 ![](https://img.shields.io/badge/linux-blue) 
 ![](https://img.shields.io/badge/docker-informational)
 ### 个人学习项目：
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anofinda&repo=AnoBlog)](https://github.com/anofinda/AnoBlog)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anofinda&repo=AnoBlogVue)](https://github.com/anofinda/AnoBlogVue)
+[![AnoBlog](https://github-readme-stats.vercel.app/api/pin?username=anofinda&repo=AnoBlog)](https://github.com/anofinda/AnoBlog)  
+[![AnoBlogVue](https://github-readme-stats.vercel.app/api/pin?username=anofinda&repo=AnoBlogVue)](https://github.com/anofinda/AnoBlogVue)
 ### 统计：
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anofinda&layout=compact)](https://github.com/anofinda)
 
+![anofinda](https://github-readme-stats.vercel.app/api?username=anofinda&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true)
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=anofinda&show_icons=true&theme=cobalt)
+![anofinda](https://github-readme-stats.vercel.app/api/top-langs/?username=anofinda&layout=compact&langs_count=10&hide_title=true&hide_border=true)
+
 
 
