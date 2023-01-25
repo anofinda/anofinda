@@ -9,6 +9,7 @@
 ### 个人学习项目：
 [![AnoBlog](https://github-readme-stats.vercel.app/api/pin?username=anofinda&repo=AnoBlog)](https://github.com/anofinda/AnoBlog)  
 [![AnoBlogVue](https://github-readme-stats.vercel.app/api/pin?username=anofinda&repo=AnoBlogVue)](https://github.com/anofinda/AnoBlogVue)
+[![AnoBlogAdmin](https://github-readme-stats.vercel.app/api/pin?username=anofinda&repo=AnoBlogAdmin)](https://github.com/anofinda/AnoBlogAdmin)
 ### 统计：
 
 ![anofinda](https://github-readme-stats.vercel.app/api?username=anofinda&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true)
