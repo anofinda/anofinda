@@ -1,10 +1,6 @@
 ### 近期要学习：
 ![](https://img.shields.io/badge/kotlin-blueviolet) 
-![](https://img.shields.io/badge/springboot-green) 
 ![](https://img.shields.io/badge/springcloud-green) 
-![](https://img.shields.io/badge/html+css+ts-critical) 
-![](https://img.shields.io/badge/vue-3-brightgreen)
-![](https://img.shields.io/badge/linux-blue) 
 ![](https://img.shields.io/badge/docker-informational)
 ### 个人学习项目：
 [![AnoBlog](https://github-readme-stats.vercel.app/api/pin?username=anofinda&repo=AnoBlog)](https://github.com/anofinda/AnoBlog)  
