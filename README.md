@@ -1,5 +1,5 @@
 ### 近期要学习：
-![](https://img.shields.io/badge/kotlin-blueviolet) 
+![](https://img.shields.io/badge/pytorch-orange) 
 ![](https://img.shields.io/badge/springcloud-green) 
 ![](https://img.shields.io/badge/docker-informational)
 ### 个人学习项目：
